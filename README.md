@@ -12,3 +12,4 @@
 * [003. Flutter uses Dart!](/docs/chapter-003.md)
 * [004. One Codebase, Multiple Platforms](/docs/chapter-004.md)
 * [005. Flutter Setup - Overview](/docs/chapter-005.md)
+* [010. Understanding Material Design](/docs/chapter-010.md)
