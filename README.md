@@ -9,3 +9,6 @@
 ## Chapters
 
 * [002. What is Flutter?](/docs/chapter-002.md)
+* [003. Flutter uses Dart!](/docs/chapter-003.md)
+* [004. One Codebase, Multiple Platforms](/docs/chapter-004.md)
+* [005. Flutter Setup - Overview](/docs/chapter-005.md)
